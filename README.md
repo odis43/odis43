@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Odi
-- 👀 I’m interested in Front-End, AI, and Machine Learning
-- 🌱 I’m currently learning Next js
+- 👀 I’m interested in Front-End, LLMs, and UI/UX
 - 📫 How to reach me: oditha14@gmail.com or https://www.linkedin.com/in/oditha/
 
 <!---
